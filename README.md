@@ -7,11 +7,9 @@
 
 ## 🧩 Description
 
-Le Modèle C³⁺ formalise la conscience et la cohérence cognitive comme un **équilibre dynamique** entre trois variables fondamentales :
+Le Modèle C³⁺ formalise la conscience et la cohérence cognitive comme un **équilibre dynamique** entre trois variables 
 
-\[
-C = (I^{\alpha} \times Co^{\beta}) \times e^{-\frac{(E - E_{opt})^2}{2\sigma^2}}
-\]
+C = (I^α × Co^β) × e^(-(E − Eopt)² / (2σ²))
 
 où :
 - `I` : Intégration différenciée (synergie informationnelle)
