@@ -62,5 +62,5 @@ Toute utilisation commerciale, algorithmique ou dérivée du modèle C3+ est int
 
 ## ✉️ Contact
 Auteur : Franck Charpentier  
-franck.charpentier [at] gmail.com
+charpentierfranck54 [at] gmail.com
 Contact : via Zenodo (DOI)
